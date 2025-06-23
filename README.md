@@ -76,9 +76,9 @@ Contributions are what make the open-source community such an amazing place to l
 1.  **Found a bug or have a suggestion?** Open an **[Issue](https://github.com/guipeliceri/Evolutio-Project/issues)**. Please describe the problem or your idea with as much detail as possible.
 2.  **Want to add a new project or improve an existing one?**
     * **Fork** the project.
-    * Create your feature **Branch** (`git checkout -b feature/AmazingProject`).
-    * **Commit** your changes (`git commit -m 'Add some AmazingProject'`).
-    * **Push** to the Branch (`git push origin feature/AmazingProject`).
+    * Create your feature **Branch** (`git checkout -b feature/Your_Project`).
+    * **Commit** your changes (`git commit -m 'Add something'`).
+    * **Push** to the Branch (`git push origin feature/Your_Project`).
     * Open a **Pull Request**.
 
 ## 📄 License
